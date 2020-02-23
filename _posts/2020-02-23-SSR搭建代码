@@ -1,3 +1,15 @@
+--
+layout:     post
+title:      SSR搭建代码
+subtitle:   Linux
+date:       2020-02-24
+author:     BY
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - iOS
+--
+
 脚本一（2018.11.20更新）
 
 yum -y install wget
