@@ -101,3 +101,12 @@ tags:
 `printf()`
 
 	printf()
+
+# 下标上标
+上标<sup>1</sup>
+
+	<sup>w</sup>
+
+下标<sub>1</sub>
+
+	<sub>w</sub>
